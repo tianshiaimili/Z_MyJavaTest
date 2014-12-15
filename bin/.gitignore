@@ -17,3 +17,6 @@
 /log4j.properties
 /string
 /thread
+/properties
+/upmp.properties
+/MD5
